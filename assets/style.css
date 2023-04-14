@@ -30,8 +30,21 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 5px;
+    margin: 10px;
     width: 4rem;
     height: 4rem;
-    background-color: rgb(95, 95, 184);
+    background-color: #1776a2;
 }
+
+.cell3 {
+    background-color: #1ed190;
+}
+
+.cell5 {
+ background-color: #fdc954;
+}
+
+.cell15 {
+ background-color: #e92b5c;
+}
+
